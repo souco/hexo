@@ -1,6 +1,7 @@
 ---
 title: 基于GithubPage的hexo博客搭建简明教程
 date: 2017-08-26 17:25:23
+category: 其他
 tags: hexo
 ---
 ### 0.相关文档
